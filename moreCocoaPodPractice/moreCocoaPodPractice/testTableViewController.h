@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <SWTableViewCell.h>
 #import "TestTableViewCell.h"
+#import <UIScrollView+APParallaxHeader.h>
 
 @interface testTableViewController : UITableViewController
 

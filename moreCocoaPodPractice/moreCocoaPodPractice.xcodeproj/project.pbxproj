@@ -15,6 +15,7 @@
 		948907F61B37583700F6D761 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 948907F51B37583700F6D761 /* Images.xcassets */; };
 		948907F91B37583700F6D761 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 948907F71B37583700F6D761 /* LaunchScreen.xib */; };
 		948908051B37583700F6D761 /* moreCocoaPodPracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 948908041B37583700F6D761 /* moreCocoaPodPracticeTests.m */; };
+		94C24A8D1B37B68E00E9C3FD /* coverimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C24A8C1B37B68E00E9C3FD /* coverimage.png */; };
 		94C8BE151B3787DD0059C2D4 /* TestTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 94C8BE141B3787DD0059C2D4 /* TestTableViewCell.m */; };
 		94D8E5A01B375B700050626E /* testTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94D8E59F1B375B700050626E /* testTableViewController.m */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,7 @@
 		948907FE1B37583700F6D761 /* moreCocoaPodPracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = moreCocoaPodPracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		948908031B37583700F6D761 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		948908041B37583700F6D761 /* moreCocoaPodPracticeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = moreCocoaPodPracticeTests.m; sourceTree = "<group>"; };
+		94C24A8C1B37B68E00E9C3FD /* coverimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coverimage.png; sourceTree = "<group>"; };
 		94C8BE131B3787DD0059C2D4 /* TestTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTableViewCell.h; sourceTree = "<group>"; };
 		94C8BE141B3787DD0059C2D4 /* TestTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTableViewCell.m; sourceTree = "<group>"; };
 		94D8E59E1B375B700050626E /* testTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testTableViewController.h; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				94C8BE141B3787DD0059C2D4 /* TestTableViewCell.m */,
 				94D8E59E1B375B700050626E /* testTableViewController.h */,
 				94D8E59F1B375B700050626E /* testTableViewController.m */,
+				94C24A8C1B37B68E00E9C3FD /* coverimage.png */,
 				948907F51B37583700F6D761 /* Images.xcassets */,
 				948907F71B37583700F6D761 /* LaunchScreen.xib */,
 				948907E81B37583700F6D761 /* Supporting Files */,
@@ -238,6 +241,7 @@
 				948907F41B37583700F6D761 /* Main.storyboard in Resources */,
 				948907F91B37583700F6D761 /* LaunchScreen.xib in Resources */,
 				948907F61B37583700F6D761 /* Images.xcassets in Resources */,
+				94C24A8D1B37B68E00E9C3FD /* coverimage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
